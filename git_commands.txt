@@ -1,0 +1,13 @@
+git config --global user.name "First Surname"
+
+git config --global user.email example@gmail.com
+
+git config --global core.editor "code --wait"
+
+git config --global -e
+
+git config --global core.autocrlf true 
+
+git confg --help
+
+git config -h
